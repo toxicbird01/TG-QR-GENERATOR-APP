@@ -43,4 +43,4 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 This project is open-source and available under the MIT License.
 
 
-<img width="512" height="512" alt="logo (2)" src="https://github.com/user-attachments/assets/c316e26b-a58a-44de-8251-fd5b908bd644" />
+<img width="325" height="325" alt="logo (2)" src="https://github.com/user-attachments/assets/e8867057-c5ac-4d13-9adb-11499b65f427" />
