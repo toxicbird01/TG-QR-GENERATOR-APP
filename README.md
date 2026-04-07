@@ -40,6 +40,7 @@ Add customization (colors, size, logo)
 Contributions are welcome. Feel free to fork the repository and submit a pull request.
 
 📄 License
-
 This project is open-source and available under the MIT License.
+
+
 <img width="512" height="512" alt="logo (2)" src="https://github.com/user-attachments/assets/c316e26b-a58a-44de-8251-fd5b908bd644" />
