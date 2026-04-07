@@ -28,7 +28,6 @@ Connect your Android device or use an emulator
 Click Run ▶️
 📸 Screenshots
 
-Add screenshots of your app here to make your repo look professional
 
 🔮 Future Improvements
 Add QR code scanner feature
